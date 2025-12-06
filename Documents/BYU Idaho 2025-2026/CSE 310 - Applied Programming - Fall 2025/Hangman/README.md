@@ -1,7 +1,5 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 For this project, I designed a hangman game using C++. First, I wrote a function to display the body parts that is displayed for when a user guesses the incorrect letter. Then in the main function, when the user guesses a letter correctly, it replaces the blank column. If the user guesses the word correctly, a message is displayed congradulating the user on guessing the word. If the user guesses the wrong letter more than 7 times, then a message will appear revealing the word and game will be over.
 
 The purpose of developing this software was to get a better understanding of how C++ is used and written. I always wanted to learn this langauge, and after practicing it, this was my first successful program I wrote using this language.
